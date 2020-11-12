@@ -33,15 +33,45 @@ class Welcome extends CI_Controller {
 
 	}
 
-	public function new()
+	public function hasil()
 	{
+
 		$data = array( 
 			'judul' => 'FITNESS RECOMMENDATION',
 			);
-
 		$this->load->view('template/header',$data);
 		$this->load->view('welcome/new',$data);
 		$this->load->view('template/footer');
+
+	}
+
+	public function post()
+	{
+		$mtv=$this->input->post('motivasi');
+		$jk=$this->input->post('jenis_kelamin');
+		$usi=$this->input->post('usia');
+		$kbu=$this->input->post('kebugaran');
+
+		if(count($this->m_fitness->getData($jk,$usi,$kbu,$mtv)->result())==0){
+			$olg = null;
+			$lama = null;
+		} else {
+			$olg = $this->m_fitness->getData($jk,$usi,$kbu,$mtv)->row()->olg;
+			$lama = $this->m_fitness->getData($jk,$usi,$kbu,$mtv)->row()->lama;
+		}		
+		
+		$data = array(
+			'olg' => $olg, 
+			'lama' => $lama, 
+			'judul' => 'FITNESS RECOMMENDATION',
+
+		);
+			
+		$this->load->view( 'template/header', $data );
+		$this->load->view( 'welcome/new', $data );
+		$this->load->view( 'template/footer' );
+		
+		// return $this->output->set_output(json_encode($olahraga));
 
 	}
 	

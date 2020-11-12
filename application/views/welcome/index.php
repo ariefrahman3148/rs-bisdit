@@ -42,7 +42,7 @@ $(document).ready(function(){
 			<div class="w3-display-middle h2 text-right mr-n5">FITNESS RECOMMENDATION</div>
 		</div>
 		<div class='col-lg-6 m-0 pt-5 px-3 w3-white'>
-		<form class='col-lg-10 mx-auto' name="add" action="<?php echo base_url('welcome/add') ?>" method="post"
+		<form class='col-lg-10 mx-auto' name="add" action="<?php echo base_url('welcome/post') ?>" method="post"
 			enctype="multipart/form-data">
 			<div class='h5 py-2 m-3'>Pilih Preferensi</div>
 
@@ -108,10 +108,10 @@ $(document).ready(function(){
 			<!-- end kebugaran -->
 
 			<!-- motivasi -->
-			<div class="form-group usia">
+			<div class="form-group motivasi">
 					<label for="motivasi"><b>Apa motivasi Anda untuk melakukan olahraga?</b></label>
 			
-					<select class="form-control" id="usia" name="usia">
+					<select class="form-control" id="motivasi" name="motivasi">
 						<option value='Saya ingin menjadi lebih fit'>Saya ingin menjadi lebih fit</option>
 						<option value='19 hingga 25'>Saya ingin meningkatkan massa otot dan kekuatan</option>
 						<option value='Saya ingin menjadi lebih fleksibel'>Saya ingin menjadi lebih fleksibel</option>
