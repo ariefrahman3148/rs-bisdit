@@ -19,8 +19,36 @@
 	<title>
 		<?php echo $judul; ?>
 	</title>
+	
+	<style>
+	 label > input{ /* Menyembunyikan radio button */
+          visibility: hidden; 
+          position: absolute; 
+        }
+        label > input + img{ /* style gambar */
+          cursor:pointer;
+          border:2px solid transparent;
+        }
+        label > input:checked + img{ /* (RADIO CHECKED) style gambar */
+          border:2px solid #f00;
+        }
+
+		.likert ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .likert li
+    {
+        float: left;
+        text-align: left;
+        list-style-type: none;
+    }
+	</style>
 </head>
 
-<body style="max-width:1600px">
+<body style="max-width:1600px; min-height:100vh">
 
 	

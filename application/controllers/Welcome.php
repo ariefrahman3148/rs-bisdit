@@ -32,6 +32,18 @@ class Welcome extends CI_Controller {
 		$this->load->view('template/footer');
 
 	}
+
+	public function new()
+	{
+		$data = array( 
+			'judul' => 'FITNESS RECOMMENDATION',
+			);
+
+		$this->load->view('template/header',$data);
+		$this->load->view('welcome/new',$data);
+		$this->load->view('template/footer');
+
+	}
 	
 	public function add(){
 		$nama=$this->input->post('nama');
