@@ -56,7 +56,7 @@ class Welcome extends CI_Controller {
 			$olg = null;
 			$lama = null;
 		} else {
-			$olg = $this->m_fitness->getData($jk,$usi,$kbu,$mtv)->row()->olg;
+			$olg = $this->m_fitness->getData($jk,$usi,$kbu,$mtv)->row()->olahraga;
 			$lama = $this->m_fitness->getData($jk,$usi,$kbu,$mtv)->row()->lama;
 		}		
 		
