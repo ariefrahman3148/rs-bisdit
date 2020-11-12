@@ -54,7 +54,7 @@ $(document).ready(function(){
 		</div>
 		<div class='col-lg-6 w3-animate-left w3-display-container w3-black p-0 m-0'>
 		<img src="<?php echo base_url('asset/images/angkat.jfif')?>" class='w3-opacity w3-display-' alt="" style= " height:100vh">
-			<div class="h2 w3-display-middle">Fitness Recommendation</div>
+			<div class="h2 text-left w3-display-middle ml-n5">FITNESS RECOMMENDATION</div>
 		
 		</div>
 	</div>
