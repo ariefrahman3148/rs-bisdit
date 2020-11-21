@@ -1,0 +1,79 @@
+image sumber
+jogging
+https://pixabay.com/get/57e2d146435aae14f6d1867dda29327c1d39d7e5554c704f752a7ddc9e44c159_1920.jpg
+
+walking
+https://pixabay.com/get/52e2d4424356aa14f6d1867dda29327c1d39d7e5554c704f752a7ddc9e44cd5b_1920.jpg
+
+gym 
+https://pixabay.com/get/57e1dd424253a914f6d1867dda29327c1d39d7e5554c704f752a7ddd9345cc5b_1920.jpg
+
+swimming 
+https://pixabay.com/get/51e9d04a484fad00f5d8997cc22a3f781c3fd8f85257714c73267bd59745_1920.jpg
+
+teamsport
+https://pixabay.com/get/57e3d0464f52ac14f6d1867dda29327c1d39d7e5554c704f752a7ddd974fc55a_1920.jpg
+
+yoga 
+https://pixabay.com/get/54e5dd444a54aa14f6d1867dda29327c1d39d7e5554c704f752a7ddd974fc35c_1920.jpg
+
+zumba
+https://pixabay.com/get/52e3d7434352ab14f6d1867dda29327c1d39d7e5554c704f752a7ddd964cc058_1920.jpg
+
+liftweight
+https://pixabay.com/get/51e9d04b4d4fad00f5d8997cc22a3f781c3fd8f85257714c73267ad69345_1920.jpg
+
+Badminton
+https://pixabay.com/get/52e1d64a4a50a814f6d1867dda29327c1d39d7e5554c704f752a7ddd934ec659_1920.jpg
+
+Cycle
+https://pixabay.com/get/57e2dd424c55a914f6d1867dda29327c1d39d7e5554c704f752a7ddd934ec35a_1920.jpg
+
+BasketBall
+https://pixabay.com/get/5fe5d3434d4fad00f5d8997cc22a3f781c3fd8f85257714c73267fd09348_1920.jpg
+
+Futsal
+https://pixabay.com/get/51e6d0444853b108feda8460c62d35761336dee34e507749702972d09245cc_1920.jpg
+
+Hiking
+https://pixabay.com/get/52e5d040495ab108feda8460c62d35761336dee34e507749702972d09549c3_1920.jpg
+
+Aerobics
+https://pixabay.com/get/51e3d2474d56b108feda8460c62d35761336dee34e507749702972d09744c5_1920.jpg
+
+JumpRope
+https://pixabay.com/get/53e0d74a4951ac14f6d1867dda29327c1d39d7e5554c704f752a7ddd934fc551_1920.jpg
+
+Calisthenics
+https://pixabay.com/get/57e9d2414f54a514f6d1867dda29327c1d39d7e5554c704f752a7ddd974dc751_1920.jpg
+
+Table tennis 
+https://pixabay.com/get/57e2d54b4955ab14f6d1867dda29327c1d39d7e5554c704f752a7ddd924cc651_1920.jpg
+
+Tennis
+https://pixabay.com/get/54e4d0414b52b108feda8460c62d35761336dee34e507749702972d1964bc2_1920.jpg
+
+Softball
+https://pixabay.com/get/57e5d3414f53a414f6d1867dda29327c1d39d7e5554c704f752a7ddd924fc751_1920.jpg
+
+gym upper
+https://i.pinimg.com/564x/8f/3d/62/8f3d629152a10f55f9645e5dd58e031f.jpg
+
+link video
+https://www.youtube.com/watch?v=acp77RhVzMM&ab_channel=JeremyEthier
+https://i.ytimg.com/an_webp/acp77RhVzMM/mqdefault_6s.webp?du=3000&sqp=CO_m1_0F&rs=AOn4CLAdJn46oZushVvgsbNPsKPVttkXYQ
+
+gym abs
+https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/29541618_560287037683525_5538565497003028989_n.jpg?_nc_cat=109&ccb=2&_nc_sid=8bfeb9&_nc_ohc=5j9kk_peO2AAX8RVvxB&_nc_ht=scontent-sin6-2.xx&oh=f36aef460e7d13e7fa6c51484ac8081b&oe=5FDAF2F4
+
+gym lower body
+https://i.pinimg.com/564x/b3/2c/05/b32c05534cacb63d76e79d587d018f43.jpg
+
+gym arms
+https://i.pinimg.com/564x/bd/5a/4e/bd5a4e3b34f5166db3124946ccb3ff29.jpg
+
+gym legs
+https://i.pinimg.com/originals/f8/9e/cd/f89ecd700ff0f36fcbe72c09ccb30f97.png
+
+gym back 
+https://i.pinimg.com/originals/f8/9e/cd/f89ecd700ff0f36fcbe72c09ccb30f97.png

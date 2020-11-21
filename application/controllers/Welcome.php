@@ -27,8 +27,20 @@ class Welcome extends CI_Controller {
 			'judul' => 'FITNESS RECOMMENDATION',
 			);
 
+		$this->load->view('template/header');
+		$this->load->view('welcome/home',$data);
+		$this->load->view('template/footer');
+
+	}
+
+	public function recommed()
+	{
+		$data = array( 
+			'judul' => 'FITNESS RECOMMENDATION',
+			);
+
 		$this->load->view('template/header',$data);
-		$this->load->view('welcome/index',$data);
+		$this->load->view('welcome/recomendation',$data);
 		$this->load->view('template/footer');
 
 	}
